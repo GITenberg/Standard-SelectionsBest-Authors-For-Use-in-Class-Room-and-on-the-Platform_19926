@@ -1,0 +1,100 @@
+_repo: Standard-SelectionsBest-Authors-For-Use-in-Class-Room-and-on-the-Platform_19926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Trueblood, Thomas C. (Thomas Clarkson)
+    alias: Trueblood, T. C. (Thomas Clarkson)
+    birthdate: 1856
+    deathdate: 1951
+    gutenberg_agent_id: '8971'
+    url: http://www.gutenberg.org/2009/agents/8971
+  - agent_name: Fulton, Robert I. (Robert Irving)
+    aliases:
+    - Fulton, Robert Irving
+    - Fulton, R. I. (Robert Irving)
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '8970'
+    url: http://www.gutenberg.org/2009/agents/8970
+  - agent_name: Trueblood, Edwin P.
+    gutenberg_agent_id: '8972'
+    url: http://www.gutenberg.org/2009/agents/8972
+description: ''
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19926'
+  lccn: 07014811
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Recitations'
+tableOfContents: The Arena Scene from "Quo Vadis?". -- The Arrow and the Song. --
+  Aux Italiens. -- Bobby Shafto. -- Carcassonne. -- The Child-wife. -- Count Gismond.
+  -- The Death of Arbaces. -- Dora. -- An Easter with Parepa. -- Those Evening Bells.
+  -- Ginevra. -- The High Tide at Lincolnshire. -- How Did You Die?. -- The Indigo
+  Bird. -- The Jackdaw of Rheims. -- Jaffar. -- Jim Bludsoe. -- King Robert of Sicily.
+  -- The Lady of Shalott; Tennyson. A Legend of Service. -- Little Boy Blue; Field.
+  -- Mary's Night Ride. -- Nydia, the Blind Girl. -- O Captain, My Captain!. -- On
+  the Other Train. -- The Pansy. -- The Revenge; Tennyson. -- The Rider of the Black
+  Horse. -- Sailing beyond Seas. -- The Sands of Dee. -- The School of Squeers. --
+  The Secret of Death; Arnold. -- Shamus O'Brien. -- My Ships. -- The Soldier's Reprieve.
+  -- The Song; Scott. -- The Stirrup Cup. -- The Swan-song; Brooks. -- Sweet Afton.
+  -- Violet's Blue. -- To a Waterfowl. -- The Wedding Gown. -- When the Snow Sifts
+  Through. -- To a Wild Flower. -- The Fate of Zoroaster. -- Centennial Hymn. -- The
+  Chambered Nautilus. -- Crossing the Bar. -- The Destruction of Sennacherib. -- Each
+  and All. -- Laus Deo!. -- The Pilgrim Fathers. -- The Present Crisis; Lowell. --
+  The Recessional. -- The Sacredness of Work. -- What's Hallowed Ground?. -- The Encroachments
+  of Philip. -- Oration against Antony; Cicero. -- Undue Lamentations over the Dead;
+  Chrysostom. -- On Applauding Preachers; Chrysostom. -- On the Death of the Prince
+  of Condé; Bossuet. -- War with America; Chatham. -- Attempt to Subjugate America;
+  Chatham. -- Impeachment of Hastings; Burke. -- Conciliation with America; Burke.
+  -- English Privileges in America; Burke. -- Bunker Hill Monument; Webster. -- Revolutionary
+  Patriots; Webster. -- Character of Washington; Webster. -- The Call to Arms; Henry.
+  -- Coercion of Delinquent States; Hamilton. -- The Reply to Hayne; Webster. -- The
+  Murder of Lovejoy; Phillips. -- The Slavery Issue; Lincoln. -- Moral Aspect of the
+  American War; Beecher. -- Abolition of War; Sumner. -- The American Flag; Beecher.
+  -- The American People; Beveridge. -- The American Question; Bright. -- America's
+  Relation to Missions; Angell. -- American Slavery; Bright. -- The Armenian Massacres;
+  Gladstone. -- Battle Hymn of the Republic. -- The Blue and the Gray. -- Corruption
+  of Prelates. -- The Cross of Gold. -- Death of Congressman Burnes; Ingalls. -- The
+  Death of Garfield; Blaine. -- The Death of Grady; Graves. -- Death of Toussaint
+  L'Ouverture; Phillips. -- The Dedication of Gettysburg Cemetery; Lincoln. -- The
+  Fallen Heroes of Japan; Togo. -- The Glory of Peace; Sumner. -- The Hope of the
+  Republic; Grady. -- Hungarian Heroism; Kossuth. -- International Relations; McKinley.
+  -- Irish Home Rule; Gladstone. -- Lincoln; Castelar. -- Lincoln; Garfield. -- Louisiana
+  Purchase Exposition; Hay. -- The Man with the Muck-rake; Roosevelt. -- Message to
+  the Squadron; Togo. -- The Minute Man; Curtis. -- A More Perfect Union; Curtis.
+  -- Napoleon; Corwin. -- Napoleon; Ingersoll. -- National Control of Corporations;
+  Roosevelt. -- The Negro; Grady. -- New England; Quincy. -- The New South; Grady.
+  -- O'Connell; Phillips. -- The Open Door; Henry. -- Organization of the World; Mead.
+  -- The Permanency of Empire; Phillips. -- The Pilgrims; Phillips. -- Principles
+  of the Founders; Mead. -- The Responsibility of War; Channing. -- Scotland; Flagg.
+  -- Secession; Stephens. -- Second Inaugural Address; Lincoln. -- Slavery and the
+  Union; Lincoln. -- Subjugation of the Filipino. -- Sufferings and Destiny of the
+  Pilgrims. -- To Arms; Kossuth. -- True American Patriotism; Cockran. -- Vision of
+  War; Ingersoll. -- War in the Twentieth Century; Mead. -- Washington; Phillips.
+  -- A Boy's Mother. -- Almost beyond Endurance. -- A Bird in the Hand. -- Breaking
+  the Charm. -- Candle Lightin' Time. -- The Day of Judgment. -- De Appile Tree. --
+  Dooley on La Grippe Microbes. -- A Doctrinal Discussion; Edwards. -- Finnigin to
+  Flannigan. -- Gavroche and the Elephant. -- The Hazing of Valiant. -- The Hindoo's
+  Paradise. -- If I Knew. -- The Imaginary Invalid. -- Jane Jones. -- Knee-deep in
+  June. -- Little Breeches. -- The Low-Backed Car. -- Mammy's Pickanin'. -- Mandalay.
+  -- Mr. Coon and Mr. Rabbit. -- Money Musk. -- The One-legged Goose. -- The Pessimist.
+  -- Schneider Sees Leah. -- The Superfluous Man. -- The Usual Way. -- The Wedding
+  Fee. -- When Malindy Sings. -- When the Cows Come Home. -- The Confessional. --
+  Jean Valjean and the Good Bishop. -- Lasca. -- Michael Strogoff (excerpt). -- Mrs.
+  Tree. -- The Portrait. -- The Tell-tale Heart. -- The Uncle. -- Beau Brummell (select
+  scenes). -- The Bells, Act III, Scene I. -- The Lady of Lyons (select scenes). --
+  Pygmalion and Galatea (select scenes). -- Rip Van Winkle (select scenes). -- The
+  Rivals (select scenes). -- The Set of Turquoise (select scenes). -- She Stoops to
+  Conquer, Act II, Scene I.
+title: "Standard Selections\r\nA Collection and Adaptation of Superior Productions\
+  \ from Best Authors for Use in Class Room and on the Platform"
+url: http://www.gutenberg.org/ebooks/19926
